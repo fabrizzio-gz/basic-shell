@@ -1,0 +1,6 @@
+myls
+wait
+write
+shell
+img/**/*
+helpers/**/*
